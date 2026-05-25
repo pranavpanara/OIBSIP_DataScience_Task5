@@ -57,7 +57,11 @@ The machine learning model predicts sales based on advertising expenditures acro
 
 ---
 
-## GitHub Repository
-Project submitted through GitHub repository as per submission instructions.
+## output Screenshot
+
+![Screenshot](ScreenShot1_Task5.png)
+![Screenshot](ScreenShot2_Task5.png)
+![Screenshot](ScreenShot3_Task5.png)
+
 
 ---
